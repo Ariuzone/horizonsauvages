@@ -1,0 +1,22 @@
+{
+  "name": "Horizons Sauvages — Safaris & voyages sur mesure",
+  "short_name": "Horizons",
+  "description": "Horizons Sauvages, agence de safaris et de voyages sur mesure basée à Marseille. Tanzanie, Kenya, Botswana, Namibie, Afrique du Sud, Rwanda : des itinéraires conçus à la main, un tourisme responsable et des conseillers spécialistes qui ont tout vu de leurs propres yeux.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "lang": "fr",
+  "background_color": "#101B12",
+  "theme_color": "#101B12",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
